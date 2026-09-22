@@ -1,2 +1,5 @@
 ipykernel
 chandan-aiops
+loguru
+requests
+beautifulsoup4
