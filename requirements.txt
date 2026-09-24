@@ -3,3 +3,4 @@ chandan-aiops
 loguru
 requests
 beautifulsoup4
+bs4
